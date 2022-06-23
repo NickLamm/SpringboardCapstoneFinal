@@ -3,3 +3,4 @@
 .ipynb_checkpoints/Data Wrangling and Exploratory Analysis-checkpoint.ipynb
 data/**
 *.json
+model.png
