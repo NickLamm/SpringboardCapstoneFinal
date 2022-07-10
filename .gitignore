@@ -5,3 +5,4 @@ data/**
 *.json
 model.png
 models/
+.ipynb_checkpoints/
