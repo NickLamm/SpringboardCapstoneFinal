@@ -1,5 +1,5 @@
 # Springboard Capstone:
-# Bird Species Identification using Nueral Network
+# Bird Species Identification using Neural Network
 
 This project was completed as my last assignment with Springboard.
 
